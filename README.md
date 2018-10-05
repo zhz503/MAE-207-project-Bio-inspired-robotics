@@ -1,6 +1,6 @@
 # Bio-inspired-robotics
 ### Project presentation:
-https://github.com/zhz503/MAE-207-project-Bio-inspired-robotics/presentation.pdf  
+https://github.com/zhz503/MAE-207-project-Bio-inspired-robotics/blob/master/presentation.pdf  
 ### My responsibility:
 •	Programmed in python, and simulated the motion process for control endpoints of robots’ legs  
 •	Designed the mechanical structures for the robot, and assembled the robot   
