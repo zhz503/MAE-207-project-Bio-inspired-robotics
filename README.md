@@ -7,6 +7,6 @@
 •	Conducted programming for the robot  
 
 ### Demo:
-1.turning movement:
+1.turning movement:  
 ![Bat symbol](turning_movement.gif)  
 2.
