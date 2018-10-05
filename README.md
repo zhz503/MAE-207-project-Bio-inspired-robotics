@@ -6,3 +6,7 @@
 •	Made adjustments and improvements to resolve the structural defects for the robot   
 •	Conducted programming for the robot  
 
+### Demo:
+1.turning movement:
+![Bat symbol](turning_movement.gif)  
+2.
