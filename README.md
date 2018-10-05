@@ -11,5 +11,6 @@
 ![Bat symbol](turning_movement.gif)  
 2.Speed test:(0.3m/s)  
 ![Bat symbol](speed_test.gif)  
-3.leg mechanism:(simulation and real test)  
+3.leg mechanism:(simulation and real test)
+![Bat symbol](simulation.gif) 
 
