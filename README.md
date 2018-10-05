@@ -1,4 +1,5 @@
 # Bio-inspired-robotics
+### Project presentation:
 
 ### My responsibility:
 •	Programmed in python, and simulated the motion process for control endpoints of robots’ legs  
