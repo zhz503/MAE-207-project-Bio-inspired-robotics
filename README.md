@@ -9,4 +9,7 @@
 ### Demo:
 1.turning movement:  
 ![Bat symbol](turning_movement.gif)  
-2.
+2.Speed test:(0.3m/s)  
+![Bat symbol](speed test.gif)  
+3.leg mechanism:(simulation and real test)  
+
